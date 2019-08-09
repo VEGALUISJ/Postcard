@@ -1,0 +1,54 @@
+body{
+	background-color: black; 
+	font-family: 'Smythe', cursive
+}
+.main{
+	background-color: white; 
+	width: 450px; 
+	height: 330px; 
+	padding: 10px; 
+	position: absolute; 
+	top: 25%; 
+	left: 33%;
+}
+h1 {
+	font-size: 45px; 
+	margin-top: 2%;
+}
+p {
+	font-size: 23px;
+}
+.logo{
+	float: right; 
+	height: 60px; 
+	width: 60px;
+}
+.right{
+	position: absolute; 
+	top: 28%; 
+	left: 55%;
+}
+.right input{
+	display: block; 
+	height: 25%; 
+	border-style: none; 
+	border-bottom: 1px solid black; 
+	font-size: 16px
+}
+.threeDimension{
+	display: block; 
+	text-decoration: none; 
+	padding-top: 10px; 
+	width: 8em; 
+	height: 1.5em; 
+	background-color: #adad85; 
+	text-align: center;
+	color: black; 
+	position: absolute; 
+	top: 85%; 
+	left: 35%; 
+	font-size: 20px;
+}
+a.threeDimension:active { 
+background-color: #7a7a52;
+}
